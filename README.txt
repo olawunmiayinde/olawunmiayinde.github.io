@@ -13,13 +13,13 @@ I am a Ph.D. candidate in Economics at the **University of Utah**, specializing 
 
 My research examines how **economic vulnerability, shocks, caregiving responsibilities, mental health systems, financial conditions, and labor-market institutions** shape productivity, welfare, and population health.
 
-My work integrates **applied microeconometrics, macro-micro analysis, vulnerability measurement, welfare valuation, cost-of-illness estimation, and policy evaluation** using administrative health records, survey data, policy panels, longitudinal data, and time-series methods.
+My work integrates applied microeconometrics, macro-micro analysis, vulnerability measurement, welfare valuation, cost-of-illness estimation, and policy evaluation** using administrative health records, survey data, policy panels, longitudinal data, and time-series methods.
 
 ---
 
 Research Interests
 
-Health Economics** · **Labor Economics** · **Development Economics** · **Welfare Economics** · **Public Economics** · **Law & Economics** · **Political Economy**
+Health Economics · Labor Economics · Development Economics · Welfare Economics · Public Economics · Law & Economics · Political Economy
 
 ---
 
