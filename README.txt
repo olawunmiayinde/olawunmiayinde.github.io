@@ -1,6 +1,7 @@
+[Download CV](./Olawunmi_Mutiu_Fakorede_CV_Revised.pdf)
 Olawunmi Mutiu Fakorede
 
-Ph.D. Candidate in Economics | University of Utah**
+Ph.D. Candidate in Economics | University of Utah
 
 [Email](mailto:m.fakorede@utah.edu) · +1 (415) 510-9893 · [ORCID](https://orcid.org/0000-0002-7875-4174) · https://scholar.google.com/citations?user=jvb2c78AAAAJ&hl=en · https://www.linkedin.com/in/mutiu-fakorede-msc-aca-cia-cfe-cima-icbrr-crma-34324a36/
 
@@ -8,7 +9,7 @@ Ph.D. Candidate in Economics | University of Utah**
 
 About Me
 
-I am a Ph.D. candidate in Economics at the **University of Utah**, specializing in **Health Economics, Labor Economics, Development Economics, Welfare Economics, Public Economics, Law & Economics, and Political Economy**.
+I am a Ph.D. candidate in Economics at the **University of Utah**, specializing in **Health Economics, Labor Economics, Development Economics, Welfare Economics, Public Economics, Law & Economics, and Political Economy.
 
 My research examines how **economic vulnerability, shocks, caregiving responsibilities, mental health systems, financial conditions, and labor-market institutions** shape productivity, welfare, and population health.
 
