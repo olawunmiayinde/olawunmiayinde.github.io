@@ -129,7 +129,7 @@ Professional Experience
 - Risk & Compliance Consultant, African Export-Import Bank — 2020–Present
 - Analyst, Office of the Provost, University of San Francisco — 2022–2023
 - Strategy Consultant, Wood Mackenzie / PCG Consulting — 2018–2020
-- Policy & Program Consultant**, UN World Food Programme — 2016–2018
+- Policy & Program Consultant, UN World Food Programme — 2016–2018
 - Managing Partner, Bridges & Barriers Advisory Service LLC — 2018–Present
 - Risk, Finance & Compliance Management Manager, KPMG — 2008–2014
 
@@ -143,6 +143,6 @@ American Economic Association (AEA) · African Finance & Economics Association �
 
 Research Repositories
 
-This GitHub profile contains selected research code, replication materials, data documentation, and reproducible workflows related to my research in **health, labor, development, caregiving, mental health, and public policy**.
+This GitHub profile contains selected research code, replication materials, data documentation, and reproducible workflows related to my research in health, labor, development, caregiving, mental health, and public policy**.
 
 ORCID: 0000-0002-7875-4174
