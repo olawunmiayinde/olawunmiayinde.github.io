@@ -9,7 +9,7 @@ Ph.D. Candidate in Economics | University of Utah
 
 About Me
 
-I am a Ph.D. candidate in Economics at the **University of Utah**, specializing in **Health Economics, Labor Economics, Development Economics, Welfare Economics, Public Economics, Law & Economics, and Political Economy.
+I am a Ph.D. candidate in Economics at the University of Utah, specializing in Health Economics, Labor Economics, Development Economics, Welfare Economics, Public Economics, Law & Economics, and Political Economy.
 
 My research examines how **economic vulnerability, shocks, caregiving responsibilities, mental health systems, financial conditions, and labor-market institutions** shape productivity, welfare, and population health.
 
